@@ -1,0 +1,231 @@
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.AssemblyReference.cache
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.SuggestedBindingRedirects.cache
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmMain.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Properties.Resources.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.GenerateResource.cache
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.exe.licenses
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.CoreCompileInputs.cache
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\QLMuaHeXanh.exe.config
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\QLMuaHeXanh.exe
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\QLMuaHeXanh.pdb
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Data.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Data.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.CopyComplete
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.exe
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.pdb
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmLogin.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmSinhVien.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Images.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmCongViec.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmGiaoVien.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmKhoa.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmNhom.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmTaoTK.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmKhuVuc.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmPhanCongBuoiCV.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmNhaDan.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmChiTietCongViec.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Dialogs.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraDialogs.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraDialogs.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmSaoLuu.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmThucHienCV.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmQLXa.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmRestore.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.frmSinhVienReport.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.SinhVienReport.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.ThongKeSinhVienTatCaDiaBanReport.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.ThongKeSVTungDiaBan.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmLich.resources
+D:\ThucTapCoSo\Code\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.frmCongViecReport.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\QLMuaHeXanh.exe.config
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\QLMuaHeXanh.exe
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\QLMuaHeXanh.pdb
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.BonusSkins.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Charts.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.CodeParser.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Data.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataAccess.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Dialogs.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Drawing.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Office.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.PivotGrid.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.RichEdit.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.RichEdit.v22.2.Export.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Sparkline.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Utils.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Utils.v22.2.UI.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Xpo.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraBars.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraDialogs.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraEditors.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraGauges.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraGrid.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraLayout.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraPrinting.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraReports.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraTreeList.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraRichEdit.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataVisualization.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataAccess.v22.2.UI.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraNavBar.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraPivotGrid.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.Extensions.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Images.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraDiagram.v22.2.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Diagram.v22.2.Core.dll
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Charts.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Data.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataAccess.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Office.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.PivotGrid.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.RichEdit.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Utils.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Sparkline.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Utils.v22.2.UI.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Xpo.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraBars.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraDialogs.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraEditors.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraGauges.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraGrid.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraLayout.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraPrinting.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraReports.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraReports.v22.2.Extensions.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraScheduler.v22.2.Core.Desktop.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraTreeList.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraRichEdit.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraVerticalGrid.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.DataAccess.v22.2.UI.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraNavBar.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraCharts.v22.2.Wizard.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraPivotGrid.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.XtraDiagram.v22.2.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\bin\Debug\DevExpress.Diagram.v22.2.Core.xml
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.AssemblyReference.cache
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.SuggestedBindingRedirects.cache
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmChiTietCongViec.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmCongViec.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmGiaoVien.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmKhuVuc.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmLich.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmLogin.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmMain.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmNhaDan.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmNhom.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmQLXa.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmRestore.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmSaoLuu.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmSinhVien.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmPhanCongBuoiCV.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmThucHienCV.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Properties.Resources.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmTaoTK.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.frmCongViecReport.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.frmSinhVienReport.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.SinhVienReport.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.ThongKeSinhVienTatCaDiaBanReport.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.ThongKeSVTungDiaBan.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.GenerateResource.cache
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.exe.licenses
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.CoreCompileInputs.cache
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.csproj.CopyComplete
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.exe
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.pdb
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmKhenThuong.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.frmThanhTich.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Khoa.resources
+D:\Năm 3 - HK2\TTCS\ĐỒ ÁN Tối Thứ 7\QLMuaHeXanh\QLMuaHeXanh\obj\Debug\QLMuaHeXanh.Report.ThongKeCongViec.resources
